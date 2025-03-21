@@ -9,6 +9,7 @@ import { MaterialIcons } from "@expo/vector-icons";
 const HomeScreen = () => {
   const theme = useTheme();
   return (
+    //test
     <SafeAreaView style={styles.container}>
       <View>
         <StatusBar barStyle="dark-content" backgroundColor={theme.colors.elevation.level2} />
